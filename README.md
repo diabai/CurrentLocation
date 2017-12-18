@@ -1,5 +1,5 @@
-Google Maps Android API Sample: Current Place Details
-=====================================================
+
+# Current location
 
 Android application to ping a user's location on the map using the ``Google Places API`` and the ``Google LocationServices API``.
 Great tutorial if you are planning to integrate location services into your app.
